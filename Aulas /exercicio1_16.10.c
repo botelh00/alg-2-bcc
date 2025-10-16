@@ -13,7 +13,9 @@ void bubble_sort(int v[], int n) {
                 trocou = 1;
             }
         }
-        if (!trocou) break; 
+        if (!trocou){
+            break; 
+        }
     }
 }
 
