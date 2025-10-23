@@ -12,7 +12,7 @@ int soma(int a){
 }
 
 int main(){
-   int c = soma(0);
+   int c = soma(0git );
    printf("%d\n", c);
    return 0;
 }
